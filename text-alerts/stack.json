@@ -1,0 +1,38 @@
+{
+  "project": "TextAlerts",
+  "consul_service_name": "text-alerts",
+  "deployable_type": "ecs-rolling-service",
+  "environments": {
+    "DevInt": {
+      "desired_instances": 1
+    },
+    "Uat": {
+      "desired_instances": 1
+    },
+    "Prod": {
+      "desired_instances": 3
+    }
+  },
+  "task_definition": {
+    "container_definitions": [
+      {
+        "name": "TextAlerts",
+        "image": "{{{dwolla-repository}}}/text-alerts:{{{container-version}}}",
+        "cpu": 64,
+        "memory": 482,
+        "cmd": ["{{{environment}}}"],
+        "port_mappings": [
+          {
+            "name": "thrift",
+            "container_port": 9998
+          },
+          {
+            "name": "admin",
+            "container_port": 9999
+          }
+        ],
+        "essential": true
+      }
+    ]
+  }
+}

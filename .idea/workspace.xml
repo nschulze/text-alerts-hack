@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="acc072f4-acf8-4a47-a1e6-f5b6473cfad0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/text-alerts/src/main/scala/com/dwolla/text/alerts/domain/TextService.scala" beforeDir="false" afterPath="$PROJECT_DIR$/text-alerts/src/main/scala/com/dwolla/text/alerts/domain/TextService.scala" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/text-alerts/src/main/scala/com/dwolla/text/alerts/domain/TextService.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="12" column="41" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/text-alerts/src/main/scala/com/dwolla/text/alerts/domain/TextService.scala" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1988" />
+    <option name="y" value="23" />
+    <option name="width" value="1522" />
+    <option name="height" value="907" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="text-alerts-hack" type="b2602c69:ProjectViewProjectNode" />
+              <item name="text-alerts-hack" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="text-alerts-hack" type="b2602c69:ProjectViewProjectNode" />
+              <item name="text-alerts-hack" type="462c0819:PsiDirectoryNode" />
+              <item name="text-alerts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="text-alerts-hack" type="b2602c69:ProjectViewProjectNode" />
+              <item name="text-alerts-hack" type="462c0819:PsiDirectoryNode" />
+              <item name="text-alerts" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="text-alerts-hack" type="b2602c69:ProjectViewProjectNode" />
+              <item name="text-alerts-hack" type="462c0819:PsiDirectoryNode" />
+              <item name="text-alerts" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="text-alerts-hack" type="b2602c69:ProjectViewProjectNode" />
+              <item name="text-alerts-hack" type="462c0819:PsiDirectoryNode" />
+              <item name="text-alerts" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="text-alerts-hack" type="b2602c69:ProjectViewProjectNode" />
+              <item name="text-alerts-hack" type="462c0819:PsiDirectoryNode" />
+              <item name="text-alerts" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="text-alerts-hack" type="b2602c69:ProjectViewProjectNode" />
+              <item name="text-alerts-hack" type="462c0819:PsiDirectoryNode" />
+              <item name="text-alerts" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="dwolla" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="text-alerts-hack" type="b2602c69:ProjectViewProjectNode" />
+              <item name="text-alerts-hack" type="462c0819:PsiDirectoryNode" />
+              <item name="text-alerts" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="dwolla" type="462c0819:PsiDirectoryNode" />
+              <item name="text" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="text-alerts-hack" type="b2602c69:ProjectViewProjectNode" />
+              <item name="text-alerts-hack" type="462c0819:PsiDirectoryNode" />
+              <item name="text-alerts" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="dwolla" type="462c0819:PsiDirectoryNode" />
+              <item name="text" type="462c0819:PsiDirectoryNode" />
+              <item name="alerts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="text-alerts-hack" type="b2602c69:ProjectViewProjectNode" />
+              <item name="text-alerts-hack" type="462c0819:PsiDirectoryNode" />
+              <item name="text-alerts" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="dwolla" type="462c0819:PsiDirectoryNode" />
+              <item name="text" type="462c0819:PsiDirectoryNode" />
+              <item name="alerts" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="text-alerts-hack" type="b2602c69:ProjectViewProjectNode" />
+              <item name="text-alerts-hack" type="462c0819:PsiDirectoryNode" />
+              <item name="text-alerts" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="dwolla" type="462c0819:PsiDirectoryNode" />
+              <item name="text" type="462c0819:PsiDirectoryNode" />
+              <item name="alerts" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+              <item name="handlers" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.scala.settings.ScalaProjectSettingsConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../account-settings" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../balance-delta-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../bill-pay" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../billable-events" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../consumer-events-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../email-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../event-bus-scala" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../funding-sources-read-model-historical" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../funding-sources-read-model-v2" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../holdings-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../members-scala-http-client" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../rebalance" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../records-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../scala-transactions-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../search-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../sift-partner-integration" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../transaction-read-model" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../transactions-scala-http-client" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../webhook-subscriptions" value="PREVIEW" />
+        <entry key="$USER_HOME$/Repos/mass-account-modifier" value="PREVIEW" />
+        <entry key="$USER_HOME$/Repos/webhook-sender" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../admin-app-skeleton" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../api-vnext" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../beneficial-ownership" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../billable-events" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../cma-balance-delta-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../contracts-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../customer-notification-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../dwolla-time-scala" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../dwolla-ui-v2-api" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../email-event-translator" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../generator-scala-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../invoice-runner" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../rebalance-runner" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../sales-intelligence" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../scheduled-payment-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../serverless-invoker" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../text-alerts" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="acc072f4-acf8-4a47-a1e6-f5b6473cfad0" name="Default Changelist" comment="" />
+      <created>1561732091487</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561732091487</updated>
+      <workItem from="1561732092967" duration="557000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="557000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1988" y="23" width="1522" height="907" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/text-alerts/src/main/scala/com/dwolla/text/alerts/domain/TextService.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="12" column="41" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

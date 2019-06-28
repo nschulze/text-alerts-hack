@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+  <shutdownHook class="ch.qos.logback.core.hook.DelayingShutdownHook">
+    <delay>5 seconds</delay>
+  </shutdownHook>
+  <appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
+    <encoder>
+      <pattern>%date{"yyyy-MM-dd'T'HH:mm:ss,SSSXXX", UTC} | log_thread=%thread | log_level=%level | log_logger=%logger | log_location=%class.%method | log_line=%line | log_application=text-alerts | log_message='%msg'%n</pattern>
+    </encoder>
+  </appender>
+  <root level="info">
+    <appender-ref ref="STDOUT"/>
+  </root>
+</configuration>

@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="65c310e3-9d1a-4569-ab12-17f1cdd220b0" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/classes/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/project/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="text-alerts" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/dwolla/text/alerts/Boot.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="30" selection-start-column="30" selection-end-column="30" />
+              <folding>
+                <element signature="e#32#61#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/dwolla/text/alerts/domain/TextService.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="35" selection-start-line="35" selection-end-line="35" />
+              <folding>
+                <element signature="e#39#93#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/dwolla/text/alerts/domain/handlers/AchRecordCreatedHandler.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+              <folding>
+                <element signature="e#48#69#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/dwolla/text/alerts/domain/handlers/TransferCompletedEventHandler.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="31" column="48" selection-start-line="31" selection-start-column="48" selection-end-line="31" selection-end-column="48" />
+              <folding>
+                <element signature="e#48#69#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/dwolla/text/alerts/domain/handlers/FinancialInstitutionAddedHandler.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+              <folding>
+                <element signature="e#48#69#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/dwolla/text/alerts/domain/handlers/FinancialInstitutionRemovedHandler.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+              <folding>
+                <element signature="e#48#69#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.sbt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="46" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/all.conf">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Object" />
+        <option value="Package Object" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/scala/com/dwolla/Boot.scala" />
+        <option value="$PROJECT_DIR$/src/it/scala/com/dwolla/SomeSpec.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/com/dwolla/text/alerts/SomeSpec.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/dwolla/text/alerts/domain/AchRecordCreatedHandler.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/dwolla/text/alerts/domain/events/AchRecordCreated.scala" />
+        <option value="$PROJECT_DIR$/build.sbt" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/dwolla/text/alerts/domain/handlers/AchRecordCreatedHandler.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/dwolla/text/alerts/domain/handlers/FinancialInstitutionAddedHandler.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/dwolla/text/alerts/domain/handlers/FinancialInstitutionRemovedHandler.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/dwolla/text/alerts/domain/handlers/TransferCompletedEventHandler.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/dwolla/text/alerts/Boot.scala" />
+        <option value="$PROJECT_DIR$/src/main/resources/all.conf" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/dwolla/text/alerts/domain/TextService.scala" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1988" />
+    <option name="y" value="23" />
+    <option name="width" value="1522" />
+    <option name="height" value="907" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="text-alerts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="text-alerts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="text-alerts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="text-alerts" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="text-alerts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="text-alerts" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="text-alerts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="text-alerts" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="text-alerts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="text-alerts" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="text-alerts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="text-alerts" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="text-alerts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="text-alerts" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="alerts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="text-alerts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="text-alerts" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="alerts" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="text-alerts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="text-alerts" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="alerts" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+              <item name="handlers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="text-alerts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="text-alerts" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="text-alerts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="text-alerts" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.scala.settings.ScalaProjectSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.dwolla.text.alerts" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Boot" type="Application" factoryName="Application" temporary="true">
+      <envs>
+        <env name="SERVICE_PORT" value="11691" />
+        <env name="ADMIN_PORT" value="11692" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="com.dwolla.text.alerts.Boot" />
+      <module name="text-alerts" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dwolla.text.alerts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Boot" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="text-alerts" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="app [file:/Users/nschulze/dev/text-alerts-hack/text-alerts/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="text-alerts-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/build.sbt" value="2834624904" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1396028727" />
+        <entry key="$PROJECT_DIR$/project/plugins.sbt" value="24066753" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Repos/mass-account-modifier" value="PREVIEW" />
+        <entry key="$USER_HOME$/Repos/webhook-sender" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../account-settings" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../admin-app-skeleton" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../api-vnext" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../balance-delta-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../beneficial-ownership" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../bill-pay" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../billable-events" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../cma-balance-delta-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../consumer-events-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../contracts-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../dwolla-time-scala" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../dwolla-ui-v2-api" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../email-event-translator" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../email-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../event-bus-scala" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../funding-sources-read-model-historical" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../funding-sources-read-model-v2" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../generator-scala-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../holdings-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../invoice-runner" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../members-scala-http-client" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../rebalance" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../rebalance-runner" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../records-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../sales-intelligence" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../scala-transactions-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../scheduled-payment-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../search-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../serverless-invoker" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../sift-partner-integration" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../transaction-read-model" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../transactions-scala-http-client" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../webhook-subscriptions" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="65c310e3-9d1a-4569-ab12-17f1cdd220b0" name="Default Changelist" comment="" />
+      <created>1560804700038</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560804700038</updated>
+      <workItem from="1560804701876" duration="3434000" />
+      <workItem from="1561488571507" duration="255000" />
+      <workItem from="1561516771025" duration="9450000" />
+      <workItem from="1561667533199" duration="1308000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="14447000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1988" y="23" width="1522" height="907" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21013513" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32883435" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.32982457" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.25061426" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="15" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="sbt" order="5" weight="0.32922825" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="CDI" order="7" />
+      <window_info anchor="right" id="Gradle" order="8" />
+      <window_info anchor="right" id="Database" order="9" />
+      <window_info anchor="right" id="Palette&#9;" order="10" />
+      <window_info anchor="right" id="Theme Preview" order="11" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/dwolla/Boot.scala" />
+    <entry file="file://$PROJECT_DIR$/src/test/scala/com/dwolla/text/alerts/SomeSpec.scala" />
+    <entry file="file://$PROJECT_DIR$/project/build.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/com.amazonaws/aws-java-sdk-core/srcs/aws-java-sdk-core-1.11.572-sources.jar!/com/amazonaws/client/builder/AwsClientBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3105">
+          <caret line="265" column="90" selection-start-line="265" selection-start-column="90" selection-end-line="265" selection-end-column="99" />
+          <folding>
+            <element signature="e#9622#9623#0" expanded="true" />
+            <element signature="e#9680#9681#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/com.amazonaws/aws-java-sdk-sqs/srcs/aws-java-sdk-sqs-1.11.572-sources.jar!/com/amazonaws/services/sqs/AmazonSQSClientBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="23" column="62" selection-start-line="23" selection-start-column="62" selection-end-line="23" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/com.amazonaws/aws-java-sdk-sqs/srcs/aws-java-sdk-sqs-1.11.572-sources.jar!/com/amazonaws/services/sqs/AmazonSQS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1590">
+          <caret line="122" column="17" selection-start-line="122" selection-start-column="17" selection-end-line="122" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/it/scala/com/dwolla/SomeSpec.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/dwolla/text/alerts/package.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/dwolla/text/alerts/domain/AchRecordCreatedHandler/scala.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/dwolla/text/alerts/domain/events/AchRecordCreated.scala" />
+    <entry file="jar://$USER_HOME$/.ivy2/cache/com.twitter/util-core_2.12/srcs/util-core_2.12-18.5.0-sources.jar!/com/twitter/util/Awaitable.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8">
+          <caret line="121" column="6" selection-start-line="121" selection-start-column="6" selection-end-line="121" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/dwolla/text/alerts/Boot.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="30" selection-start-column="30" selection-end-column="30" />
+          <folding>
+            <element signature="e#32#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/dwolla/text/alerts/domain/handlers/AchRecordCreatedHandler.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#48#69#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/dwolla/text/alerts/domain/handlers/TransferCompletedEventHandler.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="31" column="48" selection-start-line="31" selection-start-column="48" selection-end-line="31" selection-end-column="48" />
+          <folding>
+            <element signature="e#48#69#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/dwolla/text/alerts/domain/handlers/FinancialInstitutionAddedHandler.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+          <folding>
+            <element signature="e#48#69#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/dwolla/text/alerts/domain/handlers/FinancialInstitutionRemovedHandler.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+          <folding>
+            <element signature="e#48#69#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="46" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/all.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/dwolla/text/alerts/domain/TextService.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="e#39#93#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
