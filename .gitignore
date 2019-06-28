@@ -5,3 +5,5 @@ project/project/
 logs/
 .DS_Store
 *.orig
+text-alerts/target/
+text-alerts/.idea
